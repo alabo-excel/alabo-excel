@@ -26,7 +26,7 @@ Am alabo excel a self taught frontend web developer 🚀 from Nigeria
 - ⚡ Fun fact: i love watching movies especially cartooons
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alabo-excel&show_icons=true&theme=radical)
+![Alabo's github stats](https://github-readme-stats.vercel.app/api?username=alabo-excel&show_icons=true&theme=radical)
 
 
 > Feel free to check out my portfolio <a href="https://alabo-excel.vercel.app/">here</a>
