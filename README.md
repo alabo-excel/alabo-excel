@@ -32,5 +32,5 @@ Am alabo excel a self taught frontend web developer 🚀 from Nigeria
 > Feel free to check out my portfolio <a href="https://alabo-excel.vercel.app/">here</a>
 
 
-> And my personal blog on hashnode where i write stuffs related to frontend web development <a href="https://excel.hashnode.dev/">here </a>
+> And my personal blog on hashnode where i write stuffs related to frontend web development <a href="https://alaboexcel.hashnode.dev/">here </a>
 
